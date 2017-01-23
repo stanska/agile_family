@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "56609009089",
+    "firebase_url": "https://agilefamily-5c11d.firebaseio.com",
+    "project_id": "agilefamily-5c11d",
+    "storage_bucket": "agilefamily-5c11d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56609009089:android:e7a58057a4cfc289",
+        "android_client_info": {
+          "package_name": "com.agilefamily.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56609009089-mck2qj0cptnrn0ftun3577002oeihi00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agilefamily.android",
+            "certificate_hash": "B1F2484709A3EAEB96D41407D54BA60575D3A582"
+          }
+        },
+        {
+          "client_id": "56609009089-ovujpja0ud7tbnp5h8t3eeovv2i1d57u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcrvEoDOFmS4mxYo-QETCv85MeS2Z429s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56609009089-ovujpja0ud7tbnp5h8t3eeovv2i1d57u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

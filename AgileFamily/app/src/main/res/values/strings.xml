@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agile Family</string>
+    <string name="new_task">Нова задача</string>
+    <string name="task_name">Име на задачата</string>
+    <string name="create">Запази</string>
+    <string name="cancel">Отказ</string>
+</resources>
